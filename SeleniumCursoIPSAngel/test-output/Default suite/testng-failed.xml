@@ -8,6 +8,7 @@
           <include name="beforeTest"/>
           <include name="afterTest"/>
           <include name="tcfinal"/>
+          <include name="getResult"/>
         </methods>
       </class> <!-- com.finalproject.FinalProject -->
     </classes>
